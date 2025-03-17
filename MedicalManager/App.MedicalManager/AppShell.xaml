@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="App.MedicalManager.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:App.MedicalManager"
+    xmlns:views="clr-namespace:App.MedicalManager.Views"
+    Shell.FlyoutBehavior="Disabled"
+    Title="App.MedicalManager">
+
+    <ShellContent
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+    <ShellContent
+        ContentTemplate="{DataTemplate views:PatientManagementView}"
+        Route="Patients" />
+    <ShellContent
+        ContentTemplate="{DataTemplate views:PhysicianManagementView}"
+        Route="Physicians" />
+    <ShellContent
+        ContentTemplate="{DataTemplate views:AppointmentManagementView}"
+        Route="Appointments" />
+    <ShellContent
+        ContentTemplate="{DataTemplate views:TreatmentManagementView}"
+        Route="Treatments" />
+    <ShellContent
+        ContentTemplate="{DataTemplate views:InsurancePolicyManagementView}"
+        Route="InsurancePolicies" />
+    <ShellContent
+        ContentTemplate="{DataTemplate views:PatientView}"
+        Route="PatientDetails" />
+    <ShellContent
+        ContentTemplate="{DataTemplate views:PhysicianView}"
+        Route="PhysicianDetails" />
+    <ShellContent
+        ContentTemplate="{DataTemplate views:AppointmentView}"
+        Route="AppointmentDetails" />
+    <ShellContent
+        ContentTemplate="{DataTemplate views:TreatmentView}"
+        Route="TreatmentDetails" />
+    <ShellContent
+        ContentTemplate="{DataTemplate views:InsurancePolicyView}"
+        Route="InsurancePolicyDetails" />
+</Shell>

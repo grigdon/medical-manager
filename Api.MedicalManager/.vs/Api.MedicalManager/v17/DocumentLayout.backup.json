@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\source\\repos\\Api.MedicalManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{799C12FD-A0F0-4370-B636-54C19759CFF1}|Api.MedicalManager\\Api.MedicalManager.csproj|c:\\users\\gabri\\source\\repos\\api.medicalmanager\\api.medicalmanager\\database\\filebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799C12FD-A0F0-4370-B636-54C19759CFF1}|Api.MedicalManager\\Api.MedicalManager.csproj|solutionrelative:api.medicalmanager\\database\\filebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799C12FD-A0F0-4370-B636-54C19759CFF1}|Api.MedicalManager\\Api.MedicalManager.csproj|c:\\users\\gabri\\source\\repos\\api.medicalmanager\\api.medicalmanager\\controllers\\treatmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799C12FD-A0F0-4370-B636-54C19759CFF1}|Api.MedicalManager\\Api.MedicalManager.csproj|solutionrelative:api.medicalmanager\\controllers\\treatmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799C12FD-A0F0-4370-B636-54C19759CFF1}|Api.MedicalManager\\Api.MedicalManager.csproj|c:\\users\\gabri\\source\\repos\\api.medicalmanager\\api.medicalmanager\\enterprise\\treatmentec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799C12FD-A0F0-4370-B636-54C19759CFF1}|Api.MedicalManager\\Api.MedicalManager.csproj|solutionrelative:api.medicalmanager\\enterprise\\treatmentec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799C12FD-A0F0-4370-B636-54C19759CFF1}|Api.MedicalManager\\Api.MedicalManager.csproj|c:\\users\\gabri\\source\\repos\\api.medicalmanager\\api.medicalmanager\\enterprise\\physicianec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799C12FD-A0F0-4370-B636-54C19759CFF1}|Api.MedicalManager\\Api.MedicalManager.csproj|solutionrelative:api.medicalmanager\\enterprise\\physicianec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799C12FD-A0F0-4370-B636-54C19759CFF1}|Api.MedicalManager\\Api.MedicalManager.csproj|c:\\users\\gabri\\source\\repos\\api.medicalmanager\\api.medicalmanager\\enterprise\\patientec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799C12FD-A0F0-4370-B636-54C19759CFF1}|Api.MedicalManager\\Api.MedicalManager.csproj|solutionrelative:api.medicalmanager\\enterprise\\patientec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799C12FD-A0F0-4370-B636-54C19759CFF1}|Api.MedicalManager\\Api.MedicalManager.csproj|c:\\users\\gabri\\source\\repos\\api.medicalmanager\\api.medicalmanager\\enterprise\\insurancepolicyec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799C12FD-A0F0-4370-B636-54C19759CFF1}|Api.MedicalManager\\Api.MedicalManager.csproj|solutionrelative:api.medicalmanager\\enterprise\\insurancepolicyec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799C12FD-A0F0-4370-B636-54C19759CFF1}|Api.MedicalManager\\Api.MedicalManager.csproj|c:\\users\\gabri\\source\\repos\\api.medicalmanager\\api.medicalmanager\\enterprise\\appointmentec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799C12FD-A0F0-4370-B636-54C19759CFF1}|Api.MedicalManager\\Api.MedicalManager.csproj|solutionrelative:api.medicalmanager\\enterprise\\appointmentec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799C12FD-A0F0-4370-B636-54C19759CFF1}|Api.MedicalManager\\Api.MedicalManager.csproj|c:\\users\\gabri\\source\\repos\\api.medicalmanager\\api.medicalmanager\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799C12FD-A0F0-4370-B636-54C19759CFF1}|Api.MedicalManager\\Api.MedicalManager.csproj|solutionrelative:api.medicalmanager\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799C12FD-A0F0-4370-B636-54C19759CFF1}|Api.MedicalManager\\Api.MedicalManager.csproj|c:\\users\\gabri\\source\\repos\\api.medicalmanager\\api.medicalmanager\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799C12FD-A0F0-4370-B636-54C19759CFF1}|Api.MedicalManager\\Api.MedicalManager.csproj|solutionrelative:api.medicalmanager\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799C12FD-A0F0-4370-B636-54C19759CFF1}|Api.MedicalManager\\Api.MedicalManager.csproj|c:\\users\\gabri\\source\\repos\\api.medicalmanager\\api.medicalmanager\\controllers\\physiciancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799C12FD-A0F0-4370-B636-54C19759CFF1}|Api.MedicalManager\\Api.MedicalManager.csproj|solutionrelative:api.medicalmanager\\controllers\\physiciancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799C12FD-A0F0-4370-B636-54C19759CFF1}|Api.MedicalManager\\Api.MedicalManager.csproj|c:\\users\\gabri\\source\\repos\\api.medicalmanager\\api.medicalmanager\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799C12FD-A0F0-4370-B636-54C19759CFF1}|Api.MedicalManager\\Api.MedicalManager.csproj|solutionrelative:api.medicalmanager\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799C12FD-A0F0-4370-B636-54C19759CFF1}|Api.MedicalManager\\Api.MedicalManager.csproj|c:\\users\\gabri\\source\\repos\\api.medicalmanager\\api.medicalmanager\\controllers\\insurancepolicycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799C12FD-A0F0-4370-B636-54C19759CFF1}|Api.MedicalManager\\Api.MedicalManager.csproj|solutionrelative:api.medicalmanager\\controllers\\insurancepolicycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799C12FD-A0F0-4370-B636-54C19759CFF1}|Api.MedicalManager\\Api.MedicalManager.csproj|c:\\users\\gabri\\source\\repos\\api.medicalmanager\\api.medicalmanager\\api.medicalmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{799C12FD-A0F0-4370-B636-54C19759CFF1}|Api.MedicalManager\\Api.MedicalManager.csproj|solutionrelative:api.medicalmanager\\api.medicalmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799C12FD-A0F0-4370-B636-54C19759CFF1}|Api.MedicalManager\\Api.MedicalManager.csproj|c:\\users\\gabri\\source\\repos\\api.medicalmanager\\api.medicalmanager\\api.medicalmanager.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{799C12FD-A0F0-4370-B636-54C19759CFF1}|Api.MedicalManager\\Api.MedicalManager.csproj|solutionrelative:api.medicalmanager\\api.medicalmanager.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799C12FD-A0F0-4370-B636-54C19759CFF1}|Api.MedicalManager\\Api.MedicalManager.csproj|c:\\users\\gabri\\source\\repos\\api.medicalmanager\\api.medicalmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799C12FD-A0F0-4370-B636-54C19759CFF1}|Api.MedicalManager\\Api.MedicalManager.csproj|solutionrelative:api.medicalmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Filebase.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Api.MedicalManager\\Api.MedicalManager\\Database\\Filebase.cs",
+              "RelativeDocumentMoniker": "Api.MedicalManager\\Database\\Filebase.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Api.MedicalManager\\Api.MedicalManager\\Database\\Filebase.cs",
+              "RelativeToolTip": "Api.MedicalManager\\Database\\Filebase.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAD4v0YAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:53:45.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Api.MedicalManager\\Api.MedicalManager\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "Api.MedicalManager\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Api.MedicalManager\\Api.MedicalManager\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "Api.MedicalManager\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:44:04.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppointmentEC.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Api.MedicalManager\\Api.MedicalManager\\Enterprise\\AppointmentEC.cs",
+              "RelativeDocumentMoniker": "Api.MedicalManager\\Enterprise\\AppointmentEC.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Api.MedicalManager\\Api.MedicalManager\\Enterprise\\AppointmentEC.cs",
+              "RelativeToolTip": "Api.MedicalManager\\Enterprise\\AppointmentEC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:42:26.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientEC.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Api.MedicalManager\\Api.MedicalManager\\Enterprise\\PatientEC.cs",
+              "RelativeDocumentMoniker": "Api.MedicalManager\\Enterprise\\PatientEC.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Api.MedicalManager\\Api.MedicalManager\\Enterprise\\PatientEC.cs",
+              "RelativeToolTip": "Api.MedicalManager\\Enterprise\\PatientEC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T02:37:56.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InsurancePolicyEC.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Api.MedicalManager\\Api.MedicalManager\\Enterprise\\InsurancePolicyEC.cs",
+              "RelativeDocumentMoniker": "Api.MedicalManager\\Enterprise\\InsurancePolicyEC.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Api.MedicalManager\\Api.MedicalManager\\Enterprise\\InsurancePolicyEC.cs",
+              "RelativeToolTip": "Api.MedicalManager\\Enterprise\\InsurancePolicyEC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:42:48.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhysicianEC.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Api.MedicalManager\\Api.MedicalManager\\Enterprise\\PhysicianEC.cs",
+              "RelativeDocumentMoniker": "Api.MedicalManager\\Enterprise\\PhysicianEC.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Api.MedicalManager\\Api.MedicalManager\\Enterprise\\PhysicianEC.cs",
+              "RelativeToolTip": "Api.MedicalManager\\Enterprise\\PhysicianEC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:42:13.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TreatmentEC.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Api.MedicalManager\\Api.MedicalManager\\Enterprise\\TreatmentEC.cs",
+              "RelativeDocumentMoniker": "Api.MedicalManager\\Enterprise\\TreatmentEC.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Api.MedicalManager\\Api.MedicalManager\\Enterprise\\TreatmentEC.cs",
+              "RelativeToolTip": "Api.MedicalManager\\Enterprise\\TreatmentEC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:42:35.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TreatmentController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Api.MedicalManager\\Api.MedicalManager\\Controllers\\TreatmentController.cs",
+              "RelativeDocumentMoniker": "Api.MedicalManager\\Controllers\\TreatmentController.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Api.MedicalManager\\Api.MedicalManager\\Controllers\\TreatmentController.cs",
+              "RelativeToolTip": "Api.MedicalManager\\Controllers\\TreatmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:43:35.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InsurancePolicyController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Api.MedicalManager\\Api.MedicalManager\\Controllers\\InsurancePolicyController.cs",
+              "RelativeDocumentMoniker": "Api.MedicalManager\\Controllers\\InsurancePolicyController.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Api.MedicalManager\\Api.MedicalManager\\Controllers\\InsurancePolicyController.cs",
+              "RelativeToolTip": "Api.MedicalManager\\Controllers\\InsurancePolicyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:43:46.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PhysicianController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Api.MedicalManager\\Api.MedicalManager\\Controllers\\PhysicianController.cs",
+              "RelativeDocumentMoniker": "Api.MedicalManager\\Controllers\\PhysicianController.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Api.MedicalManager\\Api.MedicalManager\\Controllers\\PhysicianController.cs",
+              "RelativeToolTip": "Api.MedicalManager\\Controllers\\PhysicianController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:43:17.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Api.MedicalManager\\Api.MedicalManager\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "Api.MedicalManager\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Api.MedicalManager\\Api.MedicalManager\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "Api.MedicalManager\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAMwCwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T02:40:04.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Api.MedicalManager\\Api.MedicalManager\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Api.MedicalManager\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Api.MedicalManager\\Api.MedicalManager\\WeatherForecast.cs",
+              "RelativeToolTip": "Api.MedicalManager\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T20:35:56.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Api.MedicalManager.csproj",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Api.MedicalManager\\Api.MedicalManager\\Api.MedicalManager.csproj",
+              "RelativeDocumentMoniker": "Api.MedicalManager\\Api.MedicalManager.csproj",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Api.MedicalManager\\Api.MedicalManager\\Api.MedicalManager.csproj",
+              "RelativeToolTip": "Api.MedicalManager\\Api.MedicalManager.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-21T15:10:31.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Api.MedicalManager.http",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Api.MedicalManager\\Api.MedicalManager\\Api.MedicalManager.http",
+              "RelativeDocumentMoniker": "Api.MedicalManager\\Api.MedicalManager.http",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Api.MedicalManager\\Api.MedicalManager\\Api.MedicalManager.http",
+              "RelativeToolTip": "Api.MedicalManager\\Api.MedicalManager.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-21T14:53:35.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Api.MedicalManager\\Api.MedicalManager\\Program.cs",
+              "RelativeDocumentMoniker": "Api.MedicalManager\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Api.MedicalManager\\Api.MedicalManager\\Program.cs",
+              "RelativeToolTip": "Api.MedicalManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:34:25.083Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

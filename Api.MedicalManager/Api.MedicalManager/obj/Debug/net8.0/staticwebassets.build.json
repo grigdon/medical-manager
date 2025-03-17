@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SXJ6Lq58dvnHShFacfGQK5Y37QD40ARpr3mFlFxnkO4=",
+  "Source": "Api.MedicalManager",
+  "BasePath": "_content/Api.MedicalManager",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

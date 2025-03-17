@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App.MedicalManager.MainPage"
+             BackgroundColor="#F7FAFC"
+             Padding="15">
+
+    <VerticalStackLayout>
+
+        <!-- Title in Frame for better visual separation -->
+        <Frame BorderColor="#CBD5E0" BackgroundColor="#F7FAFC" Padding="10,15" CornerRadius="10" Margin="0,0,0,20">
+            <Label Text="Medical Manager"
+                   FontSize="28"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center"
+                   TextColor="#4A5568"/>
+        </Frame>
+
+        <Image Source="main_logo.png" HeightRequest="150" WidthRequest="150"/>
+
+        <!-- Action Buttons -->
+        <StackLayout Orientation="Horizontal" Spacing="10" HorizontalOptions="Center">
+            <Button Text="Manage Patients" Clicked="PatientsClicked" WidthRequest="180" 
+                     BackgroundColor="#C9D3D9" 
+                     TextColor="#2D3748"
+                     CornerRadius="10"/>
+            <Button Text="Manage Physicians" Clicked="PhysiciansClicked" WidthRequest="180" 
+                     BackgroundColor="#C9D3D9"
+                     TextColor="#2D3748"
+                     CornerRadius="10"/>
+            <Button Text="Manage Appointments" Clicked="AppointmentsClicked" WidthRequest="180" 
+                     BackgroundColor="#C9D3D9"
+                     TextColor="#2D3748"
+                     CornerRadius="10"/>
+            <Button Text="Manage Treatments" Clicked="TreatmentsClicked" WidthRequest="180" 
+                     BackgroundColor="#C9D3D9"
+                     TextColor="#2D3748"
+                     CornerRadius="10"/>
+            <Button Text="Manage Policies" Clicked="PoliciesClicked" WidthRequest="180" 
+                     BackgroundColor="#C9D3D9"
+                     TextColor="#2D3748"
+                     CornerRadius="10"/>
+
+        </StackLayout>
+
+    </VerticalStackLayout>
+</ContentPage>
+
+
